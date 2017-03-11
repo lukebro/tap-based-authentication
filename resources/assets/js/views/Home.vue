@@ -11,7 +11,7 @@
 	      </h2>
 	      <div class="control is-grouped is-block-mobile">
 	      	<p class="control" style="margin-top: 1em"><a href="/Tapped-based_Authentication_for_Mobile_Device_Security.pdf" target="_blank" class="button is-primary is-inverted is-outlined is-medium"><span class="icon is-medium"><i class="fa fa-book"></i></span><span>Read the paper</span></a></p>
-	      	<p class="control" style="margin-top: 1em"><router-link to="register" class="button is-primary is-inverted is-outlined is-medium"><span class="icon is-medium"><i class="fa fa-hand-pointer-0"></i></span><span>Try the demo</span></router-link></p>
+	      	<p class="control" style="margin-top: 1em"><router-link to="register" class="button is-primary is-inverted is-outlined is-medium"><span class="icon is-medium"><i class="fa fa-hand-pointer-o"></i></span><span>Try the demo</span></router-link></p>
 	      	<p class="control" style="margin-top: 1em"><a href="/poster.pdf" target="_blank" class="button is-primary is-inverted is-outlined is-medium"><span class="icon is-medium"><i class="fa fa-file-powerpoint-o"></i></span><span>View the poster</span></a></p>
 	      	<p class="control" style="margin-top: 1em"><a href="http://github.com/lukebro/tap" class="button is-primary is-inverted is-outlined is-medium"><span class="icon is-medium"><i class="fa fa-github"></i></span><span>View the code</span></a></p>
 	      </div>
